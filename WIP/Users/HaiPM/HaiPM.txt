@@ -1,3 +1,13 @@
 ﻿# X-Life documentation
 Smart home demo
 Arduino Smart Home Automation: https://www.youtube.com/watch?v=1TF1s9ziu-I
+Arduino Home Security System: https://www.youtube.com/watch?v=dRCnccv_dVE
+IOT
+http://arduino.vn/bai-viet/670-dieu-khien-8-den-led-qua-wifi-su-dung-arduino-va-esp8266
+http://arduino.vn/bai-viet/754-bat-tat-den-bang-giong-noi-voi-arduino 
+
+A-Spice
+http://www.flecsim.de/images/download/AutomotiveSpice/Automotive%20Spice%203.0/Annex%20D.html
+http://www.flecsim.de/images/download/AutomotiveSpice/
+http://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol46-2/paper04.pdf
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=SWE.4+Software+Unit+Verification
